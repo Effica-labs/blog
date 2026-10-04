@@ -1,4 +1,4 @@
-MESSAGE ?= Automated push from Makefile
+MESSAGE ?= updates to blog
 
 git:
 	@echo "Staging all changes..."
